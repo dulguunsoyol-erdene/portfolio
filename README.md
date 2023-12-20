@@ -1,9 +1,11 @@
-# Data Scientist
+# Undergraduate Student
 
-#### Technical Skills: Python, SQL
+#### Technical Skills: Python
 
-## Education	        		
-- B.S., Business Analytics | Bucknell University (_May 2026_)
+## Education
+### Bachelor of Science | Bucknell University (May, 2026)
+- Business Analytics Major
+- Computer Science Minor
 
 ## Courses
 - CSCI 203 - Introduction to Computer Science
